@@ -557,7 +557,7 @@ overflow: hidden;
     letter-spacing: 0.02em; 
     color: #ffffff; 
 }
-.formularz{
+.formularzpierwszy{
     display: flex;
     gap: 24px;
 }
