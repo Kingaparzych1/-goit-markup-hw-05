@@ -736,6 +736,7 @@ overflow: hidden;
     line-height: 1.17; 
     letter-spacing: 0.04em;
     color: #8e8f99;
+    
 }
 .spanlabel{
     width: 16px; 
@@ -747,6 +748,7 @@ overflow: hidden;
     align-items: center; 
     justify-content: center; 
     fill: transparent; 
+    margin-right:5px;
 
 }
 .inputcheckbox:checked + .labelcheck .spanlabel{
@@ -756,7 +758,7 @@ overflow: hidden;
 }
 .link-policy{
     color: #4d5ae5; 
-
+margin-left:5px;
 
 }
 .przyciskcheckbox{
